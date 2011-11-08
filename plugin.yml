@@ -1,0 +1,10 @@
+name: JobDrop
+main: com.paic.jobdrop.JobDrop
+version: 0.1
+authors:
+  - Paic
+commands:
+  jobdrop:
+    description: See the version of JobDrop.
+    usage: |
+           /jobdrop
